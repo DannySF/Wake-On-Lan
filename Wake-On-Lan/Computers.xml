@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SavedComputers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Computers>
+    <Computer>
+      <Name>HTPC</Name>
+      <MAC>4C-CC-6A-C-82-6B</MAC>
+      <IPAddr>192.168.1.33</IPAddr>
+      <Counter>1</Counter>
+      <Alive>false</Alive>
+    </Computer>
+    <Computer>
+      <Name>My Computer</Name>
+      <MAC>FF-FF-FF-FF-FF-FF</MAC>
+      <IPAddr>192.168.1.110</IPAddr>
+      <Counter>0</Counter>
+      <Alive>true</Alive>
+    </Computer>
+  </Computers>
+</SavedComputers>
